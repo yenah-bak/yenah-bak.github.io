@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Serotonergic Regulation of Fastigial Nucleus for Muscle Regulation"
+date:   2024-10-29 22:21:59 +00:00
+image: /images/sunwoo.jpg
+categories: research
+author: "Yenah Bak"
+authors: "<strong> Yenah Bak </strong>, Daesoo Kim"
+venue: "Society for Neuroscience 2024"
+poster: /images/yenah_sfn24.jpg
+slides: /pdfs/cv.pdf
+---
+We show how serotonergic modulation change change muscle activity through the fastigial nucleus.
