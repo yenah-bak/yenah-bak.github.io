@@ -7,6 +7,7 @@ categories: research
 author: "Sunwoo Kim"
 authors: "Yeejoo Han, <strong>Sunwoo Kim</strong>, Seongyeon Park, Jinho Lee"
 venue: "International Conference on Supercomputing"
+project website: https://dl.acm.org/doi/10.1145/3721145.3729516
 code: https://github.com/sunwookim028/G3SA
 website: https://dl.acm.org/doi/10.1145/3721145.3729516
 ---
