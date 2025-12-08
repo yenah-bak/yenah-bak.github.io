@@ -1,6 +1,6 @@
 # Personal Website
 
-This repo is built on [this template](https://github.com/leonidk/leonidk.github.io), and is [live](https://sunwookim028.github.io).
+This repo is built on [this template](https://github.com/leonidk/leonidk.github.io), and is [live](https://yenah-bak.github.io).
 
 Below are from the original repo's README.
 
