@@ -2,7 +2,7 @@
 layout: post
 title:  "Serotonergic Regulation of Fastigial Nucleus for Muscle Regulation"
 date:   2024-10-29 22:21:59 +00:00
-image: /images/project_diagram.pdf
+image: /images/project_diagram.jpg
 categories: research
 author: "Yenah Bak"
 authors: "<strong> Yenah Bak </strong>, Daesoo Kim"
