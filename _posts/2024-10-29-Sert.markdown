@@ -7,7 +7,7 @@ categories: research
 author: "Yenah Bak"
 authors: "<strong> Yenah Bak </strong>, Daesoo Kim"
 venue: "Society for Neuroscience 2024"
-poster: /images/yenah_sfn24.jpg
+poster: /images/Poster_Presentation (1).pdf
 slides: /pdfs/Presentation_092625.pdf
 ---
 We show how serotonergic modulation change change muscle activity through the fastigial nucleus.
